@@ -1,4 +1,5 @@
 <p align="center">
+  
 <img src="./program_info/pollymc-header-black.svg#gh-light-mode-only" alt="PollyMC logo" width="60%"/>
 <img src="./program_info/pollymc-header.svg#gh-dark-mode-only" alt="PollyMC logo" width="60%"/>
 </p>
