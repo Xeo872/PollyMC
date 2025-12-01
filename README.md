@@ -4,6 +4,7 @@
 <img src="./program_info/pollymc-header.svg#gh-dark-mode-only" alt="PollyMC logo" width="60%"/>
 </p>
 
+
 PollyMC is a **fork** of Prism Launcher. It is **not** endorsed by or affiliated with PolyMC or Prism launcher.
 
 <h1>Advantages of this fork over regular Prism:</h1>
